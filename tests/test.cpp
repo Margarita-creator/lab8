@@ -1,5 +1,4 @@
-
-// Copyright by Enigma
+// Copyright by  Margarita-creator
 
 #include <stdexcept>
 #include <gtest/gtest.h>

@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Margarita-creator
 
 #include <boost/beast/core.hpp>
 #include <boost/beast/http.hpp>
